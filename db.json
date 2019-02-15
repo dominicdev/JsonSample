@@ -5,9 +5,9 @@
     { "id": 3, "msg": "The answer look very good" }
   ],
   "idle": [
-    { "id": 1, "msg": "Hi","animcode":"Bye" },
-    { "id": 2, "msg": "I'm listening","animcode":"Listen B" },
-    { "id": 3, "msg": "Hey","animcode":"Angpose" }
+    { "id": 1, "msg": "Hi","animcode": "Bye" },
+    { "id": 2, "msg": "I'm listening","animcode": "Listen B" },
+    { "id": 3, "msg": "Hey","animcode": "Angpose" }
   ],
   "profile": {
     "name": "name"
