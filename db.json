@@ -8,15 +8,15 @@
   "idle": [
     { "id": 1, 
       "msg": "Hi3",
-      "animcode": "Bye" 
+      "animcode": "Bye" ,
     },
     { "id": 2,
       "msg": "I'm listening",
-      "animcode": "Listen B" 
+      "animcode": "Listen B" ,
     },
     { "id": 3, 
      "msg": "Hey",
-     "animcode": "Angpose" 
+     "animcode": "Angpose" ,
     }
   ],
   
