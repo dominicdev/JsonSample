@@ -7,16 +7,13 @@
   
   "idle": [
     { "id": 1, 
-      "msg": "Hi",
-      "animcode": "Bye",
+      "msg": "Hi"
     },
     { "id": 2,
-      "msg": "I'm listening",
-      "animcode": "Listen B",
+      "msg": "I'm listening"
     },
     { "id": 3, 
-     "msg": "Hey",
-     "animcode": "Angpose",
+     "msg": "Hey"
     }
   ],
   
